@@ -9,5 +9,5 @@ For my initial data analysis, I have taken two content types in consideration: E
 In the results of this study, I observed that the users in Texas tweeted the most on the Sports news and those in California tweeted the most related to Entertainment.  With the plot I generated, it could be inferred that users from Texas are more interested in Sports and would likely be more attracted towards sports related content or advertising. These results can be further analyzed using an increased number of tweets and expanding this study to all the 50 states and further media types.
 On successful completion of this project, the media industries can observe the user preferences across various demographics and thereby target their content to the users effectively.
 
-Instruction:
+# Instruction:
 Open the SportsPlot.png and Entertainment Plot.png to view the plots generated.
