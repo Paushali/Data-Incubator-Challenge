@@ -1,4 +1,4 @@
-# Data-Incubator-Challenge
+# Twitter Trend Analysis
 Social Media is a wonderful platform for people to share their ideas and sentiments on the topics they are interested in.  With the help of live user tweets, we can analyze the user behavior and preferences across the world. This can help media agencies to target the right demographics to get maximum traffic and gain user satisfaction.
 
 Most of the media websites like YouTube, Pinterest, etc., rely on user interests upon logging in and then entering their favorite contents to garner maximum viewership. YouTube studies the users’ watch history and then recommends other similar videos. However, if these websites do not have a user’s watch history stored, it should still be able to spike the user’s interest by showing the right content.
