@@ -6,8 +6,8 @@ library(stringr)
 requestURL <- "https://api.twitter.com/oauth/request_token"
 accessURL <- "https://api.twitter.com/oauth/access_token"
 authURL <- "https://api.twitter.com/oauth/authorize"
-consumerKey <- "pbNj6PAIC4em4JMUqjnOL8ZYP" # From dev.twitter.com create account and get consumer Key
-consumerSecret <- "o4OS0oyvLPu45gRNAkSMbBAFX94ACmtt781Z5CPNRvOT219kk5" #Consumer Secret Key can be generated 
+consumerKey <- "*****" # From dev.twitter.com create account and get consumer Key
+consumerSecret <- "******" #Consumer Secret Key can be generated 
 
 #Connection is made
 my_oauth <- OAuthFactory$new(consumerKey = consumerKey,
